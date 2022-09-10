@@ -1,0 +1,30 @@
+{
+  "name": "contract",
+  "version": "1.0.0",
+  "description": "An simple escrow smart contract to our Open Ramp project",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenRamp/contract.git"
+  },
+  "author": "Leonardo Rodrigues Lima de Souza Pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenRamp/contract/issues"
+  },
+  "homepage": "https://github.com/OpenRamp/contract#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.0",
+    "hardhat": "^2.11.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
