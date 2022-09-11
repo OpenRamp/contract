@@ -1,4 +1,4 @@
-# SmartContracts 
+# OpenRamp SmartContracts Repo
 
 
 <a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
